@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - arma
+  - coletavel
+  - door
+  - luzPersonagem
+  - saiuDaCaverna
+  - inimigo
+  - apanhou
+  - saiuDaFase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - interacao
+  - inimigo
+  - coletavel
+  - saindoCaverna
+  - morto
+  - obstaculosInimigo
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Blackground
+    uniqueID: 3349068957
+    locked: 0
+  - name: morto
+    uniqueID: 2884796955
+    locked: 0
+  - name: Paredes
+    uniqueID: 1139843375
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plataformas
+    uniqueID: 85069871
+    locked: 0
+  - name: Decoracao segundo plano
+    uniqueID: 1051119533
+    locked: 0
+  - name: Player
+    uniqueID: 484398641
+    locked: 0
+  - name: Decoracao frente
+    uniqueID: 2603603179
+    locked: 0
+  - name: HUD
+    uniqueID: 4013842689
+    locked: 0

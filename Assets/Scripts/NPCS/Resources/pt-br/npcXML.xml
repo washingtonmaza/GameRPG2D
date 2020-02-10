@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialogos>
+
+	<dialogo name="fala0">
+		<falas>
+		
+			<fala>Ola, meu nome é [blue]Francisco[fimblue]</fala>
+			<fala>Algumas pessoas me relataram que viram orcs selvagens próximo da aldeia</fala>
+			<fala>Poderia me ajudar?</fala>
+		</falas>
+	</dialogo>
+	
+	
+	<dialogo name="fala1">
+		<falas>
+		
+			<fala>Por favor, verifique se algo de errado está acontecendo</fala>
+			<fala>Procure por Dermisson, ele vive na floresta e poderá te ajudar na sua investigação</fala>
+			<fala>Até logo!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala2">
+		<falas>
+		
+			<fala>Que pena!</fala>
+			<fala>Por favor, caso mude de idéia me procure, preciso saber o que está acontecendo</fala>
+			<fala>Até Logo!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala3">
+		<falas>
+		
+			<fala>Assim que tiver mais informações, me procure, estarei esperando por você</fala>
+			<fala>Até Logo!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala4">
+		<falas>
+		
+			<fala>Fico muito feliz por ter me ajudado, receba uma pequena recompensa por ter me ajudado.</fala>
+		</falas>
+
+	</dialogo>
+	
+		<dialogo name="fala5">
+		<falas>
+		
+			<fala>Olá aventureiro!</fala>
+		</falas>
+
+	</dialogo>
+	
+	<dialogo name="resposta0">
+		<falas>
+			<fala>Aceito</fala>
+			<fala>Estou ocupado</fala>
+		</falas>
+	</dialogo>
+	
+	
+</dialogos>

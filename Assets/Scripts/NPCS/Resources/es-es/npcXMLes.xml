@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialogos>
+
+	<dialogo name="fala0">
+		<falas>
+		
+			<fala>Hola mi nombre es Francisco</fala>
+			<fala>Algunas personas me dijeron que vieron orcos salvajes cerca del pueblo</fala>
+			<fala>Me podría ayudar?</fala>
+		</falas>
+	</dialogo>
+	
+	
+	<dialogo name="fala1">
+		<falas>
+		
+			<fala>Por favor, compruebe si algo malo está sucediendo</fala>
+			<fala>Busca a Dermisson, él vive en el bosque y puede ayudarte</fala>
+			<fala>Cuento contigo!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala2">
+		<falas>
+		
+			<fala>Esta todo bien</fala>
+			<fala>Si cambias de opinión, ven a mí, necesito saber qué está pasando.</fala>
+			<fala>Dios mio, hasta luego!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala3">
+		<falas>
+		
+			<fala>Una vez que tengas más información, encuéntrame, te estaré esperando</fala>
+			<fala>Una vez más muchas gracias :D</fala>
+		</falas>
+	</dialogo>
+		<dialogo name="resposta0">
+		<falas>
+		
+			<fala>Si, acepto</fala>
+			<fala>Estoy ocupado</fala>
+		</falas>
+	</dialogo>
+	
+		<dialogo name="fala4">
+		<falas>
+		
+			<fala>Gracias por su ayuda, tome esta recompensa como un agradecimiento.</fala>
+		</falas>
+
+	</dialogo>
+	
+		<dialogo name="fala5">
+		<falas>
+		
+			<fala>Hola aventurero!</fala>
+		</falas>
+	
+	
+	
+</dialogos>

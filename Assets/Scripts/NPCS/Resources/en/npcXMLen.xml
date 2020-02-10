@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialogos>
+
+	<dialogo name="fala0">
+		<falas>
+		
+			<fala>Hello, my name is Francisco</fala>
+			<fala>Some people reported to me that they saw wild orcs near the village</fala>
+			<fala>Would you help me?</fala>
+		</falas>
+	</dialogo>
+	
+	
+	<dialogo name="fala1">
+		<falas>
+		
+			<fala>Please check if something wrong is happening</fala>
+			<fala>Look for Dermisson, he lives in the woods and can help you</fala>
+			<fala>See you later!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala2">
+		<falas>
+		
+			<fala>It's all right</fala>
+			<fala>Please, if you change your mind come to me, I need to know what's going on</fala>
+			<fala>Goodbye.</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala3">
+		<falas>
+		
+			<fala>Talk to me again when the quest is over</fala>
+			<fala>I see you!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala4">
+		<falas>
+		
+			<fala>Thank you for your help, take this reward as a thank you.</fala>
+		</falas>
+
+	</dialogo>
+	
+		<dialogo name="fala5">
+		<falas>
+		
+			<fala>Hello adventurer!</fala>
+		</falas>
+		
+		<dialogo name="resposta0">
+		<falas>
+		
+			<fala>I accept</fala>
+			<fala>I'm busy</fala>
+		</falas>
+	</dialogo>
+	
+	
+	
+</dialogos>
